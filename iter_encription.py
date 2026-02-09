@@ -13,7 +13,7 @@ def  ger_fence_cipher(user):
             odd+= user[index]
             index+=1
     result=even+odd
-    return result
+    yield result
 
 def random_letters(origin_string:str):
     letters = string.ascii_letters
