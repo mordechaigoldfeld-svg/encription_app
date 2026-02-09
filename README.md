@@ -13,7 +13,7 @@ _Yehuda Ben Dayan_
 ## project_files
 This project consists of four main files, each with a specific role:
 
-encryption.py: The core script containing four encryption algorithms: Atbash, Rail Fence, Caesar Cipher, and Random Cipher.
+encryption.py: The core script containing four encryption algorithms: Atbash, Fence cipher, Caesar Cipher, and Random Cipher.
 
 iter_encryption.py: Uses Generators to handle the encryption functions efficiently, allowing for data iteration.
 
